@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="hive-custom-authenticator-file">
+    <output-path>$PROJECT_DIR$/out/artifacts/hive_custom_authenticator_file</output-path>
+    <root id="archive" name="hive-custom-authenticator-file.jar">
+      <element id="module-output" name="STSCustomAuthentitor" />
+    </root>
+  </artifact>
+</component>
